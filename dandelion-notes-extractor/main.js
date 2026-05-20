@@ -241,8 +241,8 @@ class DandelionExtractorPlugin extends Plugin {
             }
 
             const newNoteContent = `---
-Source: ${sourceLink}
-Author: "${safeAuthor}"
+source: ${sourceLink}
+author: "${safeAuthor}"
 created: ${dateStr}
 tags: ${formattedTags}
 ---
