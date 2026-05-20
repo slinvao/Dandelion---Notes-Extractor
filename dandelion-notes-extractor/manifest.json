@@ -1,0 +1,10 @@
+{
+    "id": "dandelion-extractor",
+    "name": "Dandelion - Notes Extractor",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Extract blocks of text into individual atomic notes, connecting them with block-IDs, customizable embeds and more.",
+    "author": "slinvao",
+    "authorUrl": "https://https://github.com/slinvao",
+    "isDesktopOnly": false
+    }
