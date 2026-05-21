@@ -27,7 +27,7 @@ Instead of manually copying, pasting, and linking your reading highlights one by
   
   
 
-> [!tip] **A Quick Recommendation**
+> [!TIP] **A Quick Recommendation**
 >  
 > For your first extraction, consider using a duplicated note and a temporary test folder while exploring the available settings. 
 > 
