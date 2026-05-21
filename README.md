@@ -1,4 +1,4 @@
-# Dandelion---Notes-Extractor
+# Dandelion - Notes-Extractor
 Dandelion is a simple yet powerful Obsidian plugin that transforms long documents full of highlights, quotes, or clippings (such as Kindle exports or Readwise notes) into deeply linked atomic notes in a fraction of a second.
 
 Transform long documents into deeply linked atomic notes and watch dandelions emerge in your Graph View.
