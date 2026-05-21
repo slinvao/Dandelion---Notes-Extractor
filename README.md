@@ -3,7 +3,7 @@ Dandelion is a simple yet powerful Obsidian plugin that transforms long document
 
 Transform long documents into deeply linked atomic notes and watch dandelions emerge in your Graph View.
 
-![[Dandelion Graph View]](https://imgur.com/a/e7lNwZe)
+[Dandelion Graph View](https://imgur.com/a/e7lNwZe)
 
 Instead of manually copying, pasting, and linking your reading highlights one by one, Dandelion automates the entire workflow. It extracts text blocks, creates individual atomic notes, and can optionally replace the original content with block-level transclusions, resulting in a cleaner, more modular, and aesthetically organized vault.
 
